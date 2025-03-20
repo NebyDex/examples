@@ -21,8 +21,15 @@ npm run build
 
 ### 4. Run Example
 
-#### Example Running get-qoute
+#### Running get-qoute
 
-```
+```bash
 npm run get-quote
 ```
+
+#### RUNNING router-swap
+*Make sure you change your private key in the example and rebuild the project*
+```bash
+npm run router-swap
+```
+
