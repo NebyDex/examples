@@ -1,0 +1,17 @@
+{
+  "name": "neby-examples",
+  "version": "1.0.0",
+  "description": "A set of examples on how to use Neby Protocol",
+  "scripts": {
+    "build": "tsc",
+    "get-quote": "node dist/get-quote.js"
+  },
+  "author": "Žan Kovač <zan.kovi@proton.me>",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "ethers": "^6.13.5"
+  }
+}
