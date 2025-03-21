@@ -1,3 +1,5 @@
+![Neby Examples Banner](banner.png)
+
 # Neby Examples
 
 This repository contains example code samples demonstrating the usage of Neby. These examples serve as practical references and starting points for developers working with the Neby ecosystem.
@@ -27,7 +29,7 @@ npm run build
 npm run get-quote
 ```
 
-#### RUNNING router-swap
+#### Running router-swap
 *Make sure you change your private key in the example and rebuild the project*
 ```bash
 npm run router-swap
