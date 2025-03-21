@@ -7,16 +7,19 @@ This repository contains example code samples demonstrating the usage of Neby. T
 ## Setup Examples
 
 ### 1. Clone Repository
+
 ```bash
 git clone https://github.com/NebyDex/examples.git
 ```
 
 ### 2. Install
+
 ```bash
 npm install
 ```
 
 ### 3. Build
+
 ```bash
 npm run build
 ```
@@ -30,8 +33,9 @@ npm run get-quote
 ```
 
 #### Running router-swap
-*Make sure you change your private key in the example and rebuild the project*
+
+_Make sure you change your private key in the example and rebuild the project_
+
 ```bash
 npm run router-swap
 ```
-

@@ -4,12 +4,14 @@
   "description": "A set of examples on how to use Neby Protocol",
   "scripts": {
     "build": "tsc",
+    "format": "prettier . --write",
     "get-quote": "node dist/get-quote.js",
     "router-swap": "node dist/router-swap.js"
   },
   "author": "Žan Kovač <zan.kovi@proton.me>",
   "license": "ISC",
   "devDependencies": {
+    "prettier": "^3.5.3",
     "typescript": "^5.8.2"
   },
   "dependencies": {
