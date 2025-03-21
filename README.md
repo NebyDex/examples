@@ -39,3 +39,9 @@ _Make sure you change your private key in the example and rebuild the project_
 ```bash
 npm run router-swap
 ```
+
+#### Running pool-tvl
+
+```bash
+npm run pool-tvl
+```
