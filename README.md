@@ -45,3 +45,9 @@ npm run router-swap
 ```bash
 npm run pool-tvl
 ```
+
+#### Running pools (query all Neby pools)
+
+```bash
+npm run pools
+```

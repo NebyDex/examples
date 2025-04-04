@@ -7,7 +7,8 @@
     "format": "prettier . --write",
     "get-quote": "node dist/get-quote.js",
     "router-swap": "node dist/router-swap.js",
-    "pool-tvl": "node dist/pool-tvl.js"
+    "pool-tvl": "node dist/pool-tvl.js",
+    "pools": "node dist/pools.js"
   },
   "author": "Žan Kovač <zan.kovi@proton.me>",
   "license": "ISC",
