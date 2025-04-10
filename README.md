@@ -51,3 +51,9 @@ npm run pool-tvl
 ```bash
 npm run pools
 ```
+
+#### Running multi-hop-quote
+
+```bash
+npm run multi-hop-quote
+```
