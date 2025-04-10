@@ -1,8 +1,7 @@
 import gql from "graphql-tag";
 import { createClient, fetchExchange } from "urql";
 
-const NEBY_SUBGRAPH_URL =
-  "https://api.goldsky.com/api/public/project_clzi4lu67khgw01072ibvekvt/subgraphs/neby-dex-sapphire-mainnet/1.0.0/gn";
+const NEBY_SUBGRAPH_URL = "https://graph.api.neby.exchange/dex";
 
 const query = gql`
   query getPoolTVL($poolAddress: ID!) {
