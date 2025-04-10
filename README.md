@@ -57,3 +57,11 @@ npm run pools
 ```bash
 npm run multi-hop-quote
 ```
+
+#### Running multi-hop-swap
+
+_Make sure you change your private key in the example and rebuild the project_
+
+```bash
+npm run multi-hop-swap
+```

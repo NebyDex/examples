@@ -9,7 +9,8 @@
     "router-swap": "node dist/router-swap.js",
     "pool-tvl": "node dist/pool-tvl.js",
     "pools": "node dist/pools.js",
-    "multi-hop-quote": "node dist/multi-hop-quote.js"
+    "multi-hop-quote": "node dist/multi-hop-quote.js",
+    "multi-hop-swap": "node dist/multi-hop-swap.js"
   },
   "author": "Žan Kovač <zan.kovi@proton.me>",
   "license": "ISC",
